@@ -12,6 +12,9 @@
 
 
 
+代码地址：  
+https://github.com/MLNLP-World/LLMs-from-scratch-CN/tree/main
+
 
 
 ## 项目简介
